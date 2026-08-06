@@ -1,0 +1,9 @@
+uptime
+
+date
+
+echo "Hello Kali Linux" > file1.txt
+
+mv file1.txt file2.txt
+
+ls
