@@ -1,0 +1,9 @@
+ls
+
+echo "Welcome to Kali Linux" > sample.txt
+
+cat sample.txt
+
+mkdir TestFolder
+
+ls
