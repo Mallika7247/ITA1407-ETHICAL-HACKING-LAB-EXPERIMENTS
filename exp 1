@@ -1,9 +1,0 @@
-ls
-
-vi example1.txt
-
-ls
-
-rm example.txt
-
-ls
